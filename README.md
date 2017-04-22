@@ -21,6 +21,6 @@ Heroku is used to run the python code from a server, it has a free dyno for 550 
 
 A little bit on twitter API and Heroku setup can be found [here](https://github.com/mobeets/twitter-bot-bootstrap)
 
-[Heroku connection](https://boodoo.co/bletchley.html0
+[Heroku connection](https://boodoo.co/bletchley.html]
 
 [OpenWeatherMap](http://openweathermap.org)
